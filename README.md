@@ -2,7 +2,7 @@
 
 
 
-# Project Title
+# Shoe store android navigation graph
 
 A shoe store app using android navigation components
 
